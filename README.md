@@ -1,2 +1,2 @@
 # GameWerSuspenderLib
-GameWerSuspenderLib by GingerLutterium
+GameWerSuspenderLib(Suspending Alkad.exe) by GingerLutterium
