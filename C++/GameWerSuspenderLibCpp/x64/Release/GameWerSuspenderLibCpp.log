@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library C:\Users\VirusTest\source\repos\GameWerSuspenderLibCpp\x64\Release\GameWerSuspenderLibCpp.lib and object C:\Users\VirusTest\source\repos\GameWerSuspenderLibCpp\x64\Release\GameWerSuspenderLibCpp.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 75 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameWerSuspenderLibCpp.vcxproj -> C:\Users\VirusTest\source\repos\GameWerSuspenderLibCpp\x64\Release\GameWerSuspenderLibCpp.dll
